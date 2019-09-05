@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "233549154522",
+    "firebase_url": "https://hieu-smart-reply.firebaseio.com",
+    "project_id": "hieu-smart-reply",
+    "storage_bucket": "hieu-smart-reply.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233549154522:android:2f55291cbfb5f3b2983de3",
+        "android_client_info": {
+          "package_name": "com.example.mi_smart_reply"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233549154522-li8k2ms6hqa6cp7orc6h50i0jfiteif0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg_F71VNkb3eqsW_gkl9a7tn3esmq7F_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233549154522-li8k2ms6hqa6cp7orc6h50i0jfiteif0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
